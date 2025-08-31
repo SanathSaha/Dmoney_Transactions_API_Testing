@@ -44,6 +44,10 @@ Created test cases for the following scenarios:
 
 - Generate a report of all test cases using NEWMAN.
 - Included Summary screenshots of the execution.
+
+### Newman Report link : 
+ - View the newman report here : [Click Here](file:///D:/Dmoney_newman_report/Reports/report.html)
+
 View the NEWMAN screenshots below :
 
 <img width="841" height="834" alt="image" src="https://github.com/user-attachments/assets/8d4f7a76-c020-42a7-b808-f68d73f07421" />
@@ -69,14 +73,14 @@ Reported Bug or Improvements in a Google Sheet, with details such as:
  - Attachments with screenshots
 The Bug Report link : [Click here to see the bug report](https://docs.google.com/spreadsheets/d/1K825D2pXOx7taz2-IkwtXZJk4ODBQs4y/edit?usp=sharing&ouid=117230072684772729129&rtpof=true&sd=true)
 
-### How to run this Project :
+### Follow the instructions to run this Project :
 
 This project is designed to test the Dmoney REST API using JavaScript. It utilizes Node.js to run the test scripts and I provide a step-by-step guide for anyone to clone and run the project on their machine.
 
 #### Prerequisites
-      - NodeJs
+      - Node.js
       - Git
-      
+           
 #### Installation
 
 1. Clone this repo
