@@ -46,7 +46,7 @@ Created test cases for the following scenarios:
 - Included Summary screenshots of the execution.
 
 ### Newman Report link : 
- - View the newman report here : [Click Here](file:///D:/Dmoney_newman_report/Reports/report.html)
+ - View the newman report here : file:///D:/Dmoney_newman_report/Reports/report.html
 
 View the NEWMAN screenshots below :
 
