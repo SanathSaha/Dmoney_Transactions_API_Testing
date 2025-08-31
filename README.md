@@ -47,9 +47,10 @@ Created test cases for the following scenarios:
 View the NEWMAN screenshots below :
 
 <img width="841" height="834" alt="image" src="https://github.com/user-attachments/assets/8d4f7a76-c020-42a7-b808-f68d73f07421" />
-<img width="560" height="700" alt="image" src="https://github.com/user-attachments/assets/b43a03ef-ca25-423d-92b5-a0da581981b5" />
-<img width="538" height="830" alt="image" src="https://github.com/user-attachments/assets/0b0ac2d2-6bb9-4a22-b5e6-2f32812540c3" />
-<img width="561" height="495" alt="image" src="https://github.com/user-attachments/assets/f54a0da4-c3a8-4ee2-91e0-7f69c1fc06c2" />
+<img width="885" height="807" alt="image" src="https://github.com/user-attachments/assets/612e2356-805e-4df7-bf6e-73bacbea8a1f" />
+<img width="872" height="760" alt="image" src="https://github.com/user-attachments/assets/25dcd4ce-69cc-44ee-9f6f-b2fe49554f50" />
+<img width="874" height="808" alt="image" src="https://github.com/user-attachments/assets/e454a19d-046a-4736-a09f-c12c93aa9ca6" />
+<img width="870" height="757" alt="image" src="https://github.com/user-attachments/assets/cf2ca616-c77f-44e2-b2b4-5feec33042d6" />
 
 ### 4. Postman Documentation
 
@@ -98,7 +99,7 @@ The script will run tests against the Dmoney REST API and display the results in
 
 ### Contact
 
-For any further queries please contact with - [](sanath.saha007@gmail.com)
+For any further queries please contact with - [sanath.saha007@gmail.com](sanath.saha007@gmail.com)
 
 
 
